@@ -37,8 +37,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/OfficialLogo.png",
+    "dark": "/logo/OfficialLogo.png"
   },
   "navbar": {
     "links": [],
@@ -61,6 +61,8 @@
    ]
   },
   "appearance": {
-    "default": "dark"
-  }
+    "default": "dark",
+    "strict": true
+  },
+  "favicon": "/logo/OfficialLogo.png"
 }

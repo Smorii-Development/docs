@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "luma",
   "name": "Smorii Bot Documentation",
   "colors": {
-    "primary": "#ffd085",
-    "light": "#ffd085",
-    "dark": "#ffd085"
+    "primary": "#265DF8",
+    "light": "#265DF8",
+    "dark": "#265DF8"
   },
   "navigation": {
     "global": {
@@ -18,7 +18,7 @@
         {
           "anchor": "Blog",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "href": "https://compassbot.xyz/blog"
         }
       ]
     },
@@ -35,10 +35,6 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/logo/OfficialLogo.png",
-    "dark": "/logo/OfficialLogo.png"
   },
   "navbar": {
     "links": [],
@@ -62,7 +58,11 @@
   },
   "appearance": {
     "default": "dark",
-    "strict": true
+    "strict": false
   },
-  "favicon": "/logo/OfficialLogo.png"
+  "favicon": "/logo/OfficialLogo.png",
+  "logo": {
+    "light": "/images/BlackOnWhite.png",
+    "dark": "/images/BlueNoBackground.png"
+  }
 }

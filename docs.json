@@ -3,33 +3,20 @@
   "theme": "luma",
   "name": "Smorii Bot Documentation",
   "colors": {
-    "primary": "#265DF8",
-    "light": "#265DF8",
-    "dark": "#265DF8"
+    "primary": "#FEEAA1",
+    "light": "#FEEAA1",
+    "dark": "#FEEAA1"
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://compassbot.xyz/blog"
-        }
-      ]
-    },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
+        "icon": "book",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Onboarding",
             "pages": [
-              "index"
+              "introduction"
             ]
           }
         ]
@@ -61,8 +48,5 @@
     "strict": false
   },
   "favicon": "/logo/OfficialLogo.png",
-  "logo": {
-    "light": "/images/BlackOnWhite.png",
-    "dark": "/images/BlueNoBackground.png"
-  }
+  "logo": "/images/OfficialLogo.png"
 }

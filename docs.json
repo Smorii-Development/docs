@@ -35,7 +35,10 @@
     "default": "dark",
     "strict": false
   },
-  "favicon": "/logo/OfficialLogo.png",
+  "favicon": {
+    "light": "/images/OfficialLogo.png",
+    "dark": "/images/OfficialLogo.png"
+  },
   "logo": {
     "light": "/images/OfficialLogo.png",
     "dark": "/images/OfficialLogo.png",

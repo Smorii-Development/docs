@@ -48,5 +48,9 @@
     "strict": false
   },
   "favicon": "/logo/OfficialLogo.png",
-  "logo": "/images/OfficialLogo.png"
+  "logo": {
+    "light": "/images/OfficialLogo.png",
+    "dark": "/images/OfficialLogo.png",
+    "href": "https://smoriibot.xyz"
+  }
 }
